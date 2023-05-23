@@ -208,7 +208,7 @@ section {
 /*About*/
 .about-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  /*grid-template-columns: repeat(2, 1fr);*/
   padding-top: 3.5rem;
   padding-bottom: 5rem;
 }
@@ -257,7 +257,7 @@ section {
   background-color: var(--color-grey-5);
 }
 .about-container .left-about {
-  padding-right: 5rem;
+  padding-right: 3rem;
 }
 .about-container .left-about p {
   line-height: 2rem;

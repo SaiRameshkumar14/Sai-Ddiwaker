@@ -22,15 +22,15 @@
 }
 
 .light-mode {
-  --color-primary: #FFFFFF;
-  --color-secondary: #F56692;
+  --color-primary: #fdfdfd;
+  --color-secondary: #6fae93;
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
   --color-grey-1: #6c7983;
   --color-grey-2: #6c7983;
   --color-grey-3: #6c7983;
-  --color-grey-4: #454e56;
+  --color-grey-4: #ebebeb;
   --color-grey-5: #f8f8f8;
   --color-grey-6: #12181b;
 }
@@ -186,7 +186,7 @@ section {
   height: 100%;
   object-fit: cover;
   transition: all 0.4s ease-in-out;
-  filter: grayscale(100%);
+  filter: grayscale(40%);
 }
 .header-content .left-header .image img:hover {
   filter: grayscale(0);
@@ -311,6 +311,7 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
   width: 80%;
 }

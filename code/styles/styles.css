@@ -43,6 +43,9 @@ body {
   transition: all 0.4s ease-in-out;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
 a {
   display: inline-block;
   text-decoration: none;
@@ -257,7 +260,7 @@ section {
   background-color: var(--color-grey-5);
 }
 .about-container .left-about {
-  padding-right: 3rem;
+  padding-right: 5rem;
 }
 .about-container .left-about p {
   line-height: 2rem;
@@ -265,7 +268,7 @@ section {
   color: var(--color-grey-1);
 }
 .about-container .left-about h4 {
-  font-size: 2rem;
+  font-size: 3rem;
   text-transform: uppercase;
 }
 

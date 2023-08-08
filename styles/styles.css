@@ -312,22 +312,58 @@ section {
   width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .UX {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .UI {
+  width: 93%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Wireframing {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+.about-stats .progress-bars .progress-bar .progress-con .progress .Prototyping {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Figma{
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Canva {
   width: 95%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .HTML {
+  width: 88%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .CSS {
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .JavaScript {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .MySQL {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .C {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .XD {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Photoshop {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .GitHub {
+  width: 79%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Jira {
+  width: 73%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Leadership {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Project {
   width: 70%;
 }
 

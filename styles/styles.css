@@ -312,16 +312,16 @@ section {
   width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .UX {
+.about-stats .progress-bars .progress-bar .progress-con .progress .basic {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .inter {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .advance {
   width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .UI {
-  width: 93%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .Wireframing {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .Prototyping {
+/*.about-stats .progress-bars .progress-bar .progress-con .progress .Prototyping {
   width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .Figma{
@@ -365,7 +365,7 @@ section {
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .Project {
   width: 70%;
-}
+}*/
 
 .stat-title {
   text-transform: uppercase;
